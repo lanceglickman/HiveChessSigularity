@@ -1,2 +1,3 @@
 # HiveChessSingularity
 Team Chess, the singularity is near...
+How to clone the project?
