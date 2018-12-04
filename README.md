@@ -1,2 +1,2 @@
-# HiveChessSigularity
+# HiveChessSingularity
 Team Chess, the singularity is near...
